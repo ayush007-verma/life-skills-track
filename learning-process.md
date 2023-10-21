@@ -1,33 +1,42 @@
-Question 1
-What is the Feynman Technique? Explain in 1 line.
+## Learning Process
 
-The Feynman Technique is a learning method that involves simplifying and explaining a concept as
-if teaching it to someone else, which helps to solidify one's understanding.
+- #### Question 1
 
-Question 2
-In this video, what was the most interesting story or idea for you?
+  **What is the Feynman Technique?**
 
-Don't just follow your passions, BROADEN your passions, and your life will be enriched beyond measure"
-Her story is such an inspiration.
+  The Feynman Technique is a learning method that involves simplifying and explaining a concept as 
+  if teaching it to someone else, which helps to solidify one's understanding.
 
-Question 3
-What are active and diffused modes of thinking?
+- #### Question 2
 
-Active thinking involves focused, deliberate cognitive effort, while diffused thinking is a more relaxed, subconscious mental state that allows for creative insights and connections to form.
+  **In this video, what was the most interesting story or idea for you?**
 
-Question 4
-According to the video, what are the steps to take when approaching a new topic? Only mention the points.
+  Don't just follow your passions, BROADEN your passions, and your life will be enriched beyond measure"
+  Her story is such an inspiration.
 
-1. Deconstruct the skill.
-2. Learn enough to self-correct.
-3. Remove barriers to practice.
-4. Practice at least 20 hours.
+- #### Question 3
 
-Question 5
-What are some of the actions you can take going forward to improve your learning process?
+  **What are active and diffused modes of thinking?**
 
-1. Maintain 100% involvement and concentration in learning and programming.
-2. Practice deep work by eliminating distractions and preserving attention.
-3. Keep phone on silent, remove non-essential notifications, and consider using productivity tools.
-4. Apply the "work when you work, play when you play" principle.
-5. Block social media during work hours using apps like TimeLimit or Freedom.
+  Active thinking involves focused, deliberate cognitive effort, while diffused thinking is a more relaxed, subconscious mental state that allows for creative insights and connections to form.
+
+- #### Question 4
+
+  **According to the video, what are the steps to take when approaching a new topic? Only mention the points.**
+
+  1. Deconstruct the skill.
+  2. Learn enough to self-correct.
+  3. Remove barriers to practice.
+  4. Practice at least 20 hours
+
+- #### Question 5
+
+  **What are some of the actions you can take going forward to improve your learning process?**
+
+  While learning about new topics and processes.
+
+  1. Maintain 100% involvement and concentration in learning and programming.
+  2. Practice deep work by eliminating distractions and preserving attention.
+  3. Keep phone on silent, remove non-essential notifications, and consider using productivity tools.
+  4. Apply the "work when you work, play when you play" principle.
+  5. Block social media during work hours using apps like TimeLimit or Freedom.
